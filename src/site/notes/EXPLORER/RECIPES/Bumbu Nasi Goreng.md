@@ -6,7 +6,7 @@
 [Threads](https://www.threads.com/@masbree.masbree/post/DfHTs58CdOp)
 
 ## 🍽️ Photo
-![Pasted image 20261101163421.png](/img/user/Pasted%20image%2020261101163421.png)
+![Pasted image 20261101163421.png](/img/user/IMAGES/Pasted%20image%2020261101163421.png)
 
 
 ## 🛒 Ingredients & Steps
