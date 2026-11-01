@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/food-recommendations/bali/siomay-bandung-tibelat-rasa/","tags":["Siomay","Bali","IndonesianFood"],"created":"2026-11-01T14:58:41.440+07:00","updated":"2026-11-01T15:02:35.979+07:00","dg-note-properties":{"Updated":"2026-11-01T13:57:00","aliases":null,"tags":["Siomay","Bali","IndonesianFood"]}}
+{"dg-publish":true,"permalink":"/dashboard/food-recommendations/bali/siomay-bandung-tibelat-rasa/","tags":["Siomay","Bali","IndonesianFood"],"created":"2026-11-01T14:58:41.440+07:00","updated":"2026-11-01T15:05:53.092+07:00","dg-note-properties":{"Updated":"2026-11-01T13:57:00","aliases":null,"tags":["Siomay","Bali","IndonesianFood"]}}
 ---
 
 
@@ -8,7 +8,8 @@
 
 
 ##  [°◉] Images
-<iframe src="[CHANGE THIS LINK](https://www.threads.com/@tinorenato/post/DbVii97kkZk/media)/embed/" width="400" height="500" frameborder="0"></iframe> 
+![Pasted image 20261101150514.png](/img/user/Pasted%20image%2020261101150514.png)
+![Pasted image 20261101150551.png](/img/user/Pasted%20image%2020261101150551.png)
 
 
 ##  [ ▶︎ ] Videos
