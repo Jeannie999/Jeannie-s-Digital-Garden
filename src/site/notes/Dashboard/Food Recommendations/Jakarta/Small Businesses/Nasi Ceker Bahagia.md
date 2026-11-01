@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/food-recommendations/jakarta/small-businesses/nasi-ceker-bahagia/","tags":["Chicken","Spicy","IndonesianFood"],"created":"2026-11-01T13:55:59.156+07:00","updated":"2026-11-01T14:24:56.802+07:00","dg-note-properties":{"Restaurant Name":null,"Updated":null,"aliases":null,"tags":["Chicken","Spicy","IndonesianFood"]}}
+{"dg-publish":true,"permalink":"/dashboard/food-recommendations/jakarta/small-businesses/nasi-ceker-bahagia/","tags":["Chicken","Spicy","IndonesianFood"],"created":"2026-11-01T13:55:59.156+07:00","updated":"2026-11-01T14:31:14.013+07:00","dg-note-properties":{"Restaurant Name":null,"Updated":null,"aliases":["Jakarta Eats"],"tags":["Chicken","Spicy","IndonesianFood"]}}
 ---
 
 
