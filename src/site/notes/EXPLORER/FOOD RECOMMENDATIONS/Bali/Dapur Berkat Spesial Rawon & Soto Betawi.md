@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explorer/food-recommendations/bali/dapur-berkat-spesial-rawon-and-soto-betawi/","tags":["Soto","IndonesianFood","Bali","Kerobokan"],"created":"2026-11-01T16:01:32.922+07:00","updated":"2026-11-01T16:05:55.917+07:00","dg-note-properties":{"updated":"2026-11-01T16:02:00","aliases":null,"tags":["Soto","IndonesianFood","Bali","Kerobokan"]}}
+{"dg-publish":true,"permalink":"/explorer/food-recommendations/bali/dapur-berkat-spesial-rawon-and-soto-betawi/","tags":["Soto","IndonesianFood","Bali","Kerobokan"],"created":"2026-11-01T16:01:32.922+07:00","updated":"2026-11-01T16:09:06.268+07:00","dg-note-properties":{"updated":"2026-11-01T16:02:00","aliases":null,"tags":["Soto","IndonesianFood","Bali","Kerobokan"]}}
 ---
 
 
@@ -17,19 +17,12 @@
 
 
 ##  [°◉] Images
-**Menus if needed**
-<iframe src="https://www.instagram.com/p/DbvTBj_Gp02/?img_index=1/embed/" width="400" height="500" frameborder="0"></iframe> 
-<iframe src="https://www.instagram.com/p/Db7aVl0Gs56/?img_index=1/embed/" width="400" height="500" frameborder="0"></iframe> 
+<iframe src="https://www.instagram.com/p/DbvTBj_Gp02/embed/" width="400" height="500" frameborder="0"></iframe>
+<iframe src="https://www.instagram.com/p/Db7aVl0Gs56/embed/" width="400" height="500" frameborder="0"></iframe>
 
+## [ ▶ ] Videos
+<iframe src="https://www.instagram.com/p/DcLB-fUTmMc/embed/" width="400" height="600" frameborder="0"></iframe>
 
-##  [ ▶︎ ] Videos
-<iframe src="https://www.instagram.com/p/DcLB-fUTmMc/embed/" ```
-width="400" height="600" frameborder="0"
-```></iframe>
-
-<iframe src="https://www.instagram.com/p/DcAblGxxV-8//embed/" ```
-width="400" height="600" frameborder="0"
-```></iframe>
-
+<iframe src="https://www.instagram.com/p/DcAblGxxV-8/embed/" width="400" height="600" frameborder="0"></iframe>
 
 
