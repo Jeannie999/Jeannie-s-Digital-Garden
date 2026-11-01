@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/food-recommendations/jakarta/small-businesses/nasi-ceker-bahagia/","created":"2026-11-01T13:55:59.156+07:00","updated":"2026-11-01T14:02:07.994+07:00","dg-note-properties":{"Restaurant Name":null,"Updated":null}}
+{"dg-publish":true,"permalink":"/dashboard/food-recommendations/jakarta/small-businesses/nasi-ceker-bahagia/","created":"2026-11-01T13:55:59.156+07:00","updated":"2026-11-01T14:16:14.681+07:00","dg-note-properties":{"Restaurant Name":null,"Updated":null}}
 ---
 
 
@@ -10,4 +10,15 @@
 [Instagram] (https://www.instagram.com/nasicekerbahagia/)
 
 ##  ☎︎ Phone
-[Whatsapp] (https://api.whatsapp.com/send?phone=6287882632272)
+[Whatsapp] (https://api.whatsapp.com/send?phone=6287882632272)'
+
+
+##  [°◉] Images
+<iframe src= https://www.instagram.com/p/DcXpR-nPjvQ/>
+<iframe src= https://www.instagram.com/p/DcVEMd0PKHF/)/>
+<iframe src= https://www.instagram.com/p/DcSllV6P7Q1/>
+<iframe src= https://www.instagram.com/p/DcQcsVHPLWu/>
+
+##  [ ▶︎ ] Videos
+<iframe src="https://www.instagram.com/p/DdN2_QEzVmY/embed/" width="400" height="600" frameborder="0"></iframe> <iframe src="https://www.instagram.com/p/DegGptYP4rw/"> </iframe>
+

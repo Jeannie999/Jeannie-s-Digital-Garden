@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/template/restaurant-template/","created":"2026-11-01T13:51:06.245+07:00","updated":"2026-11-01T14:01:47.204+07:00","dg-note-properties":{"Updated":"2026-11-01T13:57:00"}}
+{"dg-publish":true,"permalink":"/dashboard/template/restaurant-template/","created":"2026-11-01T13:51:06.245+07:00","updated":"2026-11-01T14:06:51.435+07:00","dg-note-properties":{"Updated":"2026-11-01T13:57:00"}}
 ---
 
 
@@ -8,7 +8,16 @@
 
 
 ## 🅾 Instagram
-
+[Instagram] (Paste Link)
 
 
 ##  ☎︎ Phone
+[Whatsapp] (Paste Link)
+
+
+##  [°◉] Images
+
+
+##  [ ▶︎ ] Videos
+
+
