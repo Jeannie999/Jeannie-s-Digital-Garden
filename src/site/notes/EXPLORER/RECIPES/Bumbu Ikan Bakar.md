@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explorer/recipes/bumbu-ikan-bakar/","tags":["fish","IndonesianFood","grilled"],"created":"2026-11-01T15:18:50.036+07:00","updated":"2026-11-01T15:36:38.816+07:00","dg-note-properties":{"updated":null,"aliases":null,"tags":["fish","IndonesianFood","grilled"]}}
+{"dg-publish":true,"permalink":"/explorer/recipes/bumbu-ikan-bakar/","tags":["fish","IndonesianFood","grilled","recipe","Bumbu"],"created":"2026-11-01T15:18:50.036+07:00","updated":"2026-11-01T16:33:49.415+07:00","dg-note-properties":{"updated":null,"aliases":null,"tags":["fish","IndonesianFood","grilled","recipe","Bumbu"]}}
 ---
 
 ## 🔗Source

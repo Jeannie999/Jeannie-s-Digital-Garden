@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explorer/recipes/bumbu-gado-gado-kacang-mete/","created":"2026-11-01T15:30:10.387+07:00","updated":"2026-11-01T15:36:02.905+07:00","dg-note-properties":{"updated":"2026-11-01T15:19:00","aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/explorer/recipes/bumbu-gado-gado-kacang-mete/","tags":["Bumbu","recipe","IndonesianFood"],"created":"2026-11-01T15:30:10.387+07:00","updated":"2026-11-01T16:33:40.881+07:00","dg-note-properties":{"updated":"2026-11-01T15:19:00","aliases":null,"tags":["Bumbu","recipe","IndonesianFood"]}}
 ---
 
 ## 🔗Source
