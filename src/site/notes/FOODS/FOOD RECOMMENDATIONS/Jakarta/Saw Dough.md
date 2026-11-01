@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/foods/food-recommendations/jakarta/saw-dough/","tags":["Bread","Sourdough","Bakery"],"created":"2026-11-01T14:31:24.763+07:00","updated":"2026-11-01T14:36:47.488+07:00","dg-note-properties":{"Updated":"2026-11-01T13:57:00","aliases":null,"tags":["Bread","Sourdough","Bakery"]}}
+{"dg-publish":true,"permalink":"/foods/food-recommendations/jakarta/saw-dough/","tags":["Bread","Sourdough","Bakery"],"created":"2026-11-01T14:31:24.763+07:00","updated":"2026-11-01T20:29:40.276+07:00","dg-note-properties":{"Updated":"2026-11-01T13:57:00","aliases":null,"tags":["Bread","Sourdough","Bakery"]}}
 ---
 
 
@@ -16,7 +16,6 @@
 
 
 ##  [°◉] Images
-**Menus if needed**
 <iframe src="https://www.instagram.com/p/DcsHjeQvUfl/embed/" width="400" height="500" frameborder="0"></iframe> 
 
 

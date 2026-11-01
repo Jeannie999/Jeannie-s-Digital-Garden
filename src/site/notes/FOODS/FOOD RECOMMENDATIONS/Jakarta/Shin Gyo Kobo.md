@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/foods/food-recommendations/jakarta/shin-gyo-kobo/","tags":["fish","Japanese","Jakarta","KelapaGading"],"created":"2026-11-01T20:12:37.283+07:00","updated":"2026-11-01T20:16:20.514+07:00","dg-note-properties":{"updated":"2026-11-01T20:12:00","aliases":null,"tags":["fish","Japanese","Jakarta","KelapaGading"]}}
+{"dg-publish":true,"permalink":"/foods/food-recommendations/jakarta/shin-gyo-kobo/","tags":["fish","Japanese","Jakarta","KelapaGading"],"created":"2026-11-01T20:12:37.283+07:00","updated":"2026-11-01T20:29:46.266+07:00","dg-note-properties":{"updated":"2026-11-01T20:12:00","aliases":null,"tags":["fish","Japanese","Jakarta","KelapaGading"]}}
 ---
 
 
@@ -16,7 +16,6 @@
 [Whatsapp](https://api.whatsapp.com/send?phone=6281110121500&text=Hi%20Shin%20Gyo%20Kobo%2C%20i%20would%20like%20to%20made%20a%20reservation%20)
 
 ##  [°◉] Images
-**Menus if needed**
 <iframe src="https://www.instagram.com/p/DUQJeTjgISj/embed/" width="400" height="500" frameborder="0"></iframe> 
 
 <iframe src="https://www.instagram.com/p/DcsO40skuNYj/embed/" width="400" height="500" frameborder="0"></iframe> 

@@ -8,8 +8,8 @@
 
 
 ##  [°◉] Images
-![Pasted image 20261101150514.png](/img/user/EXPLORER/IMAGES/Pasted%20image%2020261101150514.png)
-![Pasted image 20261101150551.png](/img/user/EXPLORER/IMAGES/Pasted%20image%2020261101150551.png)
+![Pasted image 20261101150514.png](/img/user/ABOUT%20DIGITAL%20GARDEN/IMAGES/Pasted%20image%2020261101150514.png)
+![Pasted image 20261101150551.png](/img/user/ABOUT%20DIGITAL%20GARDEN/IMAGES/Pasted%20image%2020261101150551.png)
 
 
 

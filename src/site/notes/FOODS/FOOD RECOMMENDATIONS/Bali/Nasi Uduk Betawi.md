@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/foods/food-recommendations/bali/nasi-uduk-betawi/","tags":["rice","NasiUduk","IndonesianFood","Bali","DauhPuri"],"created":"2026-11-01T16:51:23.011+07:00","updated":"2026-11-01T16:53:16.949+07:00","dg-note-properties":{"updated":"2026-11-01T16:51:00","aliases":null,"tags":["rice","NasiUduk","IndonesianFood","Bali","DauhPuri"]}}
+{"dg-publish":true,"permalink":"/foods/food-recommendations/bali/nasi-uduk-betawi/","tags":["rice","NasiUduk","IndonesianFood","Bali","DauhPuri"],"created":"2026-11-01T16:51:23.011+07:00","updated":"2026-11-01T20:30:00.149+07:00","dg-note-properties":{"updated":"2026-11-01T16:51:00","aliases":null,"tags":["rice","NasiUduk","IndonesianFood","Bali","DauhPuri"]}}
 ---
 
 
@@ -17,7 +17,6 @@
 
 
 ##  [°◉] Images
-**Menus if needed**
 <iframe src="https://www.instagram.com/p/DVGlQZQEk0s/embed/" width="400" height="500" frameborder="0"></iframe> 
 
 

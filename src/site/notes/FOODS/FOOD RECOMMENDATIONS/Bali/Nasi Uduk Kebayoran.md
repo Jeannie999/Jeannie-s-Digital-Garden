@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/foods/food-recommendations/bali/nasi-uduk-kebayoran/","tags":["rice","NasiUduk","IndonesianFood","Bali","Mumbul"],"created":"2026-11-01T16:48:10.676+07:00","updated":"2026-11-01T16:50:29.055+07:00","dg-note-properties":{"updated":"2026-11-01T16:48:00","aliases":null,"tags":["rice","NasiUduk","IndonesianFood","Bali","Mumbul"]}}
+{"dg-publish":true,"permalink":"/foods/food-recommendations/bali/nasi-uduk-kebayoran/","tags":["rice","NasiUduk","IndonesianFood","Bali","Mumbul"],"created":"2026-11-01T16:48:10.676+07:00","updated":"2026-11-01T20:30:04.276+07:00","dg-note-properties":{"updated":"2026-11-01T16:48:00","aliases":null,"tags":["rice","NasiUduk","IndonesianFood","Bali","Mumbul"]}}
 ---
 
 
@@ -15,7 +15,6 @@
 +6281514281889
 
 ##  [°◉] Images
-**Menus if needed**
 <iframe src="https://www.instagram.com/p/Dc4fmUzzQGF/embed/" width="400" height="500" frameborder="0"></iframe> 
 
 
