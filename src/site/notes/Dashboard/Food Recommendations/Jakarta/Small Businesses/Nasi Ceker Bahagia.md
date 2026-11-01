@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/food-recommendations/jakarta/small-businesses/nasi-ceker-bahagia/","created":"2026-11-01T13:55:59.156+07:00","updated":"2026-11-01T14:16:14.681+07:00","dg-note-properties":{"Restaurant Name":null,"Updated":null}}
+{"dg-publish":true,"permalink":"/dashboard/food-recommendations/jakarta/small-businesses/nasi-ceker-bahagia/","tags":["Chicken","Spicy","IndonesianFood"],"created":"2026-11-01T13:55:59.156+07:00","updated":"2026-11-01T14:22:25.477+07:00","dg-note-properties":{"Restaurant Name":null,"Updated":null,"aliases":null,"tags":["Chicken","Spicy","IndonesianFood"]}}
 ---
 
 
@@ -14,11 +14,17 @@
 
 
 ##  [°◉] Images
-<iframe src= https://www.instagram.com/p/DcXpR-nPjvQ/>
-<iframe src= https://www.instagram.com/p/DcVEMd0PKHF/)/>
-<iframe src= https://www.instagram.com/p/DcSllV6P7Q1/>
-<iframe src= https://www.instagram.com/p/DcQcsVHPLWu/>
+**Ceker Taichan**
+<iframe src="https://www.instagram.com/p/DcXpR-nPjvQ/embed/" width="400" height="500" frameborder="0"></iframe> **Ceker Sambal Ijo Padang**
+<iframe src="https://www.instagram.com/p/DcVEMd0PKHF/embed/" width="400" height="500" frameborder="0"></iframe>
+
+**Ceker Kecap Jawa**
+<iframe src="https://www.instagram.com/p/DcSllV6P7Q1/embed/" width="400" height="500" frameborder="0"></iframe>
+
+**Ceker Mercon**
+<iframe src="https://www.instagram.com/p/DcQcsVHPLWu/embed/" width="400" height="500" frameborder="0"></iframe>
 
 ##  [ ▶︎ ] Videos
-<iframe src="https://www.instagram.com/p/DdN2_QEzVmY/embed/" width="400" height="600" frameborder="0"></iframe> <iframe src="https://www.instagram.com/p/DegGptYP4rw/"> </iframe>
+<iframe src="https://www.instagram.com/p/DdN2_QEzVmY/embed/" width="400" height="600" frameborder="0"></iframe>
+<iframe src="https://www.instagram.com/p/DegGptYP4rw/embed"> </iframe>
 
