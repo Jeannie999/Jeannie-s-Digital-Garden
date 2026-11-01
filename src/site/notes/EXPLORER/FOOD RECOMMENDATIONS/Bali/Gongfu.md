@@ -13,7 +13,7 @@
 
 
 ##  [°◉] Images
-![Pasted image 20261101154612.png](/img/user/Pasted%20image%2020261101154612.png)
+![Pasted image 20261101154612.png](/img/user/IMAGES/Pasted%20image%2020261101154612.png)
 
 
 ##  [ ▶︎ ] Videos
